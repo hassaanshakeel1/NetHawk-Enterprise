@@ -1,3 +1,6 @@
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 NetHawk Enterprise | Advanced Port Scanner
 NetHawk Enterprise is a high-performance, multi-threaded network intelligence tool built with Python. It features a modern GUI developed with Tkinter, allowing users to scan for open ports, identify services, and export findings efficiently.
 

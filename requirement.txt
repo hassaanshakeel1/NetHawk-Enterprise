@@ -1,0 +1,2 @@
+# No external dependencies required for the current version.
+# Built-in libraries used: tkinter, socket, threading, concurrent.futures, csv
